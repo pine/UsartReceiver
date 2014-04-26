@@ -1,0 +1,18 @@
+= Usart Receiver =
+
+== About ==
+The application is serial port terminal to debug a microcontroller. It was developed for Robot Club in Kochi University of Technology.
+
+== Development environment ==
+* C#
+* Visual Studio 2013
+* .NET Framework 4.5
+* Windows Forms
+
+== License ==
+* The MIT License
+* Copyright &copy; 2013 MIZUNE Pine.
+
+== Links ==
+* [http://www.ugs.kochi-tech.ac.jp/robot/ Robot Club Official Site]
+* [http://wikiwiki.jp/robotclub/ Robot Club Wiki]
